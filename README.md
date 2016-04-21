@@ -12,6 +12,7 @@ Design
     - Backgrounds
 
     - Typography
+        - Google Fonts - https://www.google.com/fonts
 
     - Websites
         -
@@ -34,14 +35,22 @@ Front End
 
 
 Back End
+--------
 
 Database
+--------
 
 Algorithms
+----------
 
 Tutorial Sites
+--------------
     - Udemy - https://www.udemy.com/
-    - Lynda -
+    - Lynda - http://www.lynda.com/
+
+    - FreeCodeCamp - https://www.freecodecamp.com
 
 Books
-    - Safari Books - 
+------
+    - Safari Books - https://www.safaribooksonline.com
+    -
