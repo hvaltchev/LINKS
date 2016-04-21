@@ -7,9 +7,10 @@
 Design
 -------
     - Tools
-        - Balsamiq - https://balsamiq.com
-        - Moqups   - https://moqups.com
-        - Sketch   - https://www.sketchapp.com
+        - Balsamiq  - https://balsamiq.com
+        - Moqups    - https://moqups.com
+        - Sketch 3  - https://www.sketchapp.com
+        - Principle - http://principleformac.com
 
 
     - UI Kits
@@ -68,7 +69,8 @@ Youtube
         - LevelUpTuts - https://leveluptutorials.com/tutorials
         - SketchAppTV - http://sketchapp.tv
 
-    - Videos
+    - Conferences
+        -  F8 - https://developers.facebook.com/videos/f8-2016/designing-at-facebook/
 
 
 
