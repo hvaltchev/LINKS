@@ -34,10 +34,7 @@ Front End
 
     - Boiler Plates
         - Skeleton - http://getskeleton.com
-
-
-
-
+        - HTML5 Boiler - https://html5boilerplate.com
 
 Back End
 --------
@@ -60,5 +57,9 @@ Books
     - Safari Books - https://www.safaribooksonline.com
     -
 
-Youtube Videos
+Youtube
 --------------
+
+    - Channels
+
+    - Videos
