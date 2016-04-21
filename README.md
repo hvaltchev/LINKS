@@ -5,7 +5,7 @@ Design
     - Tools
         - Balsamiq - https://balsamiq.com
         - Moqups   - https://moqups.com
-        - Sketch   -
+        - Sketch   - https://www.sketchapp.com
 
     - Icons
 
@@ -16,6 +16,7 @@ Design
     - Websites
 
     - Misc
+        - Paper Templates - http://www.interfacesketch.com
 
 Front End
 ----------
@@ -33,6 +34,6 @@ Front End
 
 Back End
 
-Algorithms
-
 Database
+
+Algorithms
