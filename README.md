@@ -14,6 +14,7 @@ Design
     - Typography
 
     - Websites
+        -
 
     - Misc
         - Paper Templates - http://www.interfacesketch.com
@@ -37,3 +38,10 @@ Back End
 Database
 
 Algorithms
+
+Tutorial Sites
+    - Udemy - https://www.udemy.com/
+    - Lynda -
+
+Books
+    - Safari Books - 
