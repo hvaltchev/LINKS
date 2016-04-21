@@ -24,6 +24,12 @@ Design
     - Misc
         - Paper Templates - http://www.interfacesketch.com
 
+    - Social
+        - Dribble
+        - Behance
+
+
+
 Front End
 ----------
 
@@ -36,19 +42,14 @@ Front End
         - Skeleton - http://getskeleton.com
         - HTML5 Boiler - https://html5boilerplate.com
 
-Back End
---------
-
-Database
---------
-
-Algorithms
-----------
-
 Tutorial Sites
 --------------
     - Udemy - https://www.udemy.com/
     - Lynda - http://www.lynda.com/
+    - Team Tree House - https://teamtreehouse.com
+    - Code Academy - https://www.codecademy.com
+    - Code School - https://www.codeschool.com
+
 
     - FreeCodeCamp - https://www.freecodecamp.com
 
@@ -61,5 +62,18 @@ Youtube
 --------------
 
     - Channels
+        - LevelUpTuts - https://leveluptutorials.com/tutorials
 
     - Videos
+
+
+
+
+Back End
+--------
+
+Database
+--------
+
+Algorithms
+----------
