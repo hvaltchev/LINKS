@@ -11,7 +11,8 @@ Design
         - Moqups    - https://moqups.com
         - Sketch 3  - https://www.sketchapp.com
         - Principle - http://principleformac.com
-
+        - Invision  - https://www.invisionapp.com
+        - ProtoIO   - https://proto.io
 
     - UI Kits
 
@@ -22,12 +23,15 @@ Design
     - Typography
         - Google Fonts - https://www.google.com/fonts
 
+    - Color Pallets
+
     - Misc
         - Paper Templates - http://www.interfacesketch.com
 
     - Social
         - Dribble - https://dribbble.com
         - Behance - https://www.behance.net
+        - Codepen - http://codepen.io
         - Pinterest - https://www.pinterest.com
 
     - Portfolios
@@ -62,24 +66,44 @@ Books
     - Safari Books - https://www.safaribooksonline.com
     -
 
-Youtube
+Social
 --------------
 
-    - Channels
+    - Youtube
         - LevelUpTuts - https://leveluptutorials.com/tutorials
         - SketchAppTV - http://sketchapp.tv
 
     - Conferences
         -  F8 - https://developers.facebook.com/videos/f8-2016/designing-at-facebook/
 
+    - Meetups
 
+
+SEO
+--------
 
 
 Back End
 --------
+    - NODE
+
+    - NPM
 
 Database
 --------
 
 Algorithms
 ----------
+
+
+Text Editors
+------------
+
+    - Atom
+    - Sublime
+    - Brackets
+    - Vim
+
+
+Bash
+------------
