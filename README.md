@@ -29,6 +29,7 @@ Front End
         - Foundation - http://foundation.zurb.com
 
     - Boiler Plates
+        - Skeleton - http://getskeleton.com
 
 
 
@@ -54,3 +55,5 @@ Books
 ------
     - Safari Books - https://www.safaribooksonline.com
     -
+
+Youtube Videos
