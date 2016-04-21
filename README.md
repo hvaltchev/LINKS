@@ -9,7 +9,7 @@ Design
 
     - Standards
         -
-        
+
     - Tools
         - Balsamiq  - https://balsamiq.com
         - Moqups    - https://moqups.com
@@ -39,6 +39,10 @@ Design
         - Pinterest - https://www.pinterest.com
 
     - Portfolios
+
+
+
+----------------------------------------------------------------
 
 
 
@@ -88,18 +92,19 @@ SEO
     - Header - https://github.com/joshbuchea/HEAD
 
 
-Back End
---------
-    - NODE
+Deployment
+-----------
+    - AWS
+    - Azure
+    - Heroku
 
-    - NPM
+----------------------------------------------------------------------
 
-Database
---------
-
-Algorithms
-----------
-
+Misc Tools
+-----------
+    - whois
+    - builtwith
+    -  
 
 Text Editors
 ------------
@@ -110,5 +115,14 @@ Text Editors
     - Vim
 
 
-Bash
-------------
+    Back End
+    --------
+        - NODE
+
+        - NPM
+
+    Database
+    --------
+
+    Algorithms
+    ----------
