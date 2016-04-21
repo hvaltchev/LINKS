@@ -11,6 +11,9 @@ Design
         - Moqups   - https://moqups.com
         - Sketch   - https://www.sketchapp.com
 
+
+    - UI Kits
+
     - Icons
 
     - Backgrounds
@@ -18,15 +21,15 @@ Design
     - Typography
         - Google Fonts - https://www.google.com/fonts
 
-    - Websites
-        -
-
     - Misc
         - Paper Templates - http://www.interfacesketch.com
 
     - Social
-        - Dribble
-        - Behance
+        - Dribble - https://dribbble.com
+        - Behance - https://www.behance.net
+        - Pinterest - https://www.pinterest.com
+
+    - Portfolios
 
 
 
@@ -63,6 +66,7 @@ Youtube
 
     - Channels
         - LevelUpTuts - https://leveluptutorials.com/tutorials
+        - SketchAppTV - http://sketchapp.tv
 
     - Videos
 
