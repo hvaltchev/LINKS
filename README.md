@@ -41,7 +41,7 @@ Design
     - Portfolios
 
     - Articles
-        - Difference between WireFrame, Mockup, Prototype http://brainhub.eu/blog/2016/04/20/difference-between-wireframe-mockup-prototype/
+        - Difference between WireFrame, Mockup, Prototype -  http://brainhub.eu/blog/2016/04/20/difference-between-wireframe-mockup-prototype/
 
 
 
@@ -68,6 +68,7 @@ Tutorial Sites
     - TeamTree House - https://teamtreehouse.com
     - Code Academy - https://www.codecademy.com
     - Code School - https://www.codeschool.com
+    - Egghead - https://egghead.io
 
 
     - FreeCodeCamp - https://www.freecodecamp.com
@@ -129,3 +130,6 @@ Text Editors
 
     Algorithms
     ----------
+
+
+merp - https://frontendmasters.gitbooks.io/front-end-handbook/content/index.html
