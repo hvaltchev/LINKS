@@ -76,7 +76,7 @@ Tutorial Sites
 Books
 ------
     - Safari Books - https://www.safaribooksonline.com
-    -
+    - You Don't Know JS (Getify) - https://github.com/getify/You-Dont-Know-JS
 
 Social
 --------------
@@ -112,11 +112,10 @@ Misc Tools
 
 Text Editors
 ------------
-
-    - Atom
-    - Sublime
-    - Brackets
-    - Vim
+    - Atom - https://atom.io
+    - Sublime - https://www.sublimetext.com/3
+    - Brackets - http://brackets.io
+    - Webstorm - https://www.jetbrains.com/webstorm/
 
 
     Back End
