@@ -66,7 +66,7 @@ Tutorial Sites
 --------------
     - Udemy - https://www.udemy.com/
     - Lynda - http://www.lynda.com/
-    - TeamTree House - https://teamtreehouse.com
+    - Team Tree House - https://teamtreehouse.com
     - Code Academy - https://www.codecademy.com
     - Code School - https://www.codeschool.com
     - Egghead - https://egghead.io
@@ -131,5 +131,9 @@ Text Editors
     Algorithms
     ----------
 
+CMS and Templates
+------------------
+    - Wordpress - https://wordpress.org
+    - Themeforest - http://themeforest.net
 
 merp - https://frontendmasters.gitbooks.io/front-end-handbook/content/index.html
