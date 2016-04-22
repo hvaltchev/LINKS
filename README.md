@@ -100,30 +100,29 @@ SEO
 
 Deployment
 -----------
-    - AWS
-    - Azure
-    - Heroku
+    - AWS - https://aws.amazon.com
+    - Azure - https://azure.microsoft.com
+    - Heroku - https://www.heroku.com
 
 ----------------------------------------------------------------------
 
 Misc Tools
 -----------
-    - whois
+    - whois -
     - builtwith
-    -  
+    - speedtest-  
+    - ghostery - https://www.ghostery.com
 
 Text Editors
 ------------
+    - WebStorm - https://www.jetbrains.com/webstorm/
     - Atom - https://atom.io
     - Sublime - https://www.sublimetext.com/3
     - Brackets - http://brackets.io
-    - Webstorm - https://www.jetbrains.com/webstorm/
-
 
     Back End
     --------
         - NODE
-
         - NPM
 
     Database
