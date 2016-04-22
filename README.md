@@ -14,6 +14,7 @@ Design
         - Balsamiq  - https://balsamiq.com
         - Moqups    - https://moqups.com
         - Sketch 3  - https://www.sketchapp.com
+            - Sketch Cheat Sheet - http://sketchshortcuts.com
         - Principle - http://principleformac.com
         - Invision  - https://www.invisionapp.com
         - ProtoIO   - https://proto.io
@@ -77,6 +78,7 @@ Books
 ------
     - Safari Books - https://www.safaribooksonline.com
     - You Don't Know JS (Getify) - https://github.com/getify/You-Dont-Know-JS
+    - JSbookshttp://jsbooks.revolunet.com    
 
 Social
 --------------
