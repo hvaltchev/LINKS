@@ -30,6 +30,9 @@ Design
 
     - Color Pallets
 
+    - Style Guides
+        - https://devbridge.github.io/Styleguide/
+
     - Misc
         - Paper Templates - http://www.interfacesketch.com
 
