@@ -65,6 +65,9 @@ Front End
         - Skeleton - http://getskeleton.com
         - HTML5 Boiler - https://html5boilerplate.com
 
+    - APIs
+        apigee - https://apigee.com/console/facebook
+
 Tutorial Sites
 --------------
     - Udemy - https://www.udemy.com/
