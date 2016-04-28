@@ -142,4 +142,8 @@ CMS and Templates
     - Wordpress - https://wordpress.org
     - Themeforest - http://themeforest.net
 
+Automation
+----------
+    - Guru99 Automation Tutorials - http://www.guru99.com
+
 merp - https://frontendmasters.gitbooks.io/front-end-handbook/content/index.html
