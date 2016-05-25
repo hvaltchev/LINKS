@@ -43,6 +43,7 @@ Design
         - Pinterest - https://www.pinterest.com
 
     - Portfolios
+          Webfield Manual - http://webfieldmanual.com
 
     - Articles
         - Difference between WireFrame, Mockup, Prototype -  http://brainhub.eu/blog/2016/04/20/difference-between-wireframe-mockup-prototype/
