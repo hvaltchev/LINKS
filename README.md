@@ -57,6 +57,10 @@ Design
 Front End
 ----------
 
+HTML/CSS
+--------
+Shayhowe - http://learn.shayhowe.com/html-css/
+
     - Front End Frameworks
         - Bootstrap  - http://getbootstrap.com
             - Cheatsheet - http://hackerthemes.com/bootstrap-cheatsheet
@@ -146,5 +150,9 @@ CMS and Templates
 Automation
 ----------
     - Guru99 Automation Tutorials - http://www.guru99.com
+
+Linux
+--------------
+https://linuxjourney.com
 
 merp - https://frontendmasters.gitbooks.io/front-end-handbook/content/index.html
